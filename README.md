@@ -23,7 +23,15 @@ Este es mi sitio personal, donde comparto información sobre mí, mis proyectos,
 
 ## 🚀 Proyectos
 
-- [Lista de tus proyectos aquí]
+- 🧠 **Clasificador de papers**  
+  Proyecto de clasificación automática de artículos científicos usando modelos de machine learning y procesamiento de lenguaje natural para tareas de análisis bibliométrico.
+
+- 🎓 **Gestor de Clínica**  
+  Aplicación de escritorio desarrollada para gestionar pacientes, médicos y citas, usando Java y SQLite.
+
+- 🌐 **Sección WiDS ESPOL**  
+  Desarrollo frontend con React y Tailwind para una sección del sitio [WiDS ESPOL](https://wids.espol.edu.ec/).
+
 
 ---
 
@@ -52,6 +60,36 @@ He trabajado con **React** y **Tailwind CSS**, colaborando en el desarrollo de u
 
 Manejo de **MySQL** y **SQLite** en proyectos académicos. Realicé una **demo para una clínica**, implementando gestión de pacientes, médicos y citas, con integración completa entre base de datos, lógica y presentación.
 
+### 🔬 Ayudante de investigación
+
+Participación en investigaciones académicas en temas relacionados con inteligencia artificial y bibliometría, incluyendo análisis, clasificación y evaluación de artículos científicos con herramientas de NLP y aprendizaje automático.
+
 ---
+
+## 🧰 Tecnologías
+
+A lo largo de mi formación y proyectos, he aprendido y aplicado diversas tecnologías, herramientas y frameworks:
+
+- ☕ **Java**  
+  Lenguaje principal en el desarrollo de aplicaciones móviles con Android Studio y aplicaciones de escritorio. Usado en proyectos como el **Gestor de Clínica** y apps de tareas.
+
+- 🌐 **JavaScript**  
+  Lenguaje base para desarrollo web, utilizado en conjunto con frameworks como React para crear interfaces dinámicas e interactivas.
+
+- ⚛️ **React**  
+  Biblioteca de JavaScript usada en el desarrollo del frontend de la sección [WiDS ESPOL](https://wids.espol.edu.ec/), facilitando la creación de componentes reutilizables y diseño responsive.
+
+- 🐍 **Python**  
+  Utilizado principalmente para proyectos de inteligencia artificial y ciencia de datos, como el **Clasificador de papers** y agentes de recomendación.
+
+- 📊 **R**  
+  Usado en entornos académicos para análisis estadístico, visualización de datos y exploración de bibliometría.
+
+- 🐳 **Docker**  
+  Utilizado para contenerizar aplicaciones y entornos de desarrollo, asegurando portabilidad y consistencia entre sistemas.
+
+---
+
+
 
 
