@@ -23,16 +23,20 @@ Este es mi sitio personal, donde comparto información sobre mí, mis proyectos,
 
 ## 🚀 Proyectos
 
-- 🧠 **Clasificador de papers**  
-  Proyecto de clasificación automática de artículos científicos usando modelos de machine learning y procesamiento de lenguaje natural para tareas de análisis bibliométrico.
+- 📄 **Extractor de papers de PubMed**  
+  Herramienta desarrollada para automatizar la recolección de artículos científicos desde la base de datos PubMed, utilizada en investigaciones sobre inteligencia artificial en salud.  
+  **Tecnologías:** Python, bibliotecas de web scraping y procesamiento de texto  
+  🔗 [Repositorio](https://github.com/tuusuario/extractor-pubmed)
 
 - 🎓 **Gestor de Clínica**  
   Aplicación de escritorio desarrollada para gestionar pacientes, médicos y citas, usando Java y SQLite.
+  **Tecnologías:** Python, SQLite
+  🔗 [Repositorio](https://github.com/tuusuario/clasificador-papers](https://github.com/Jonthz/clinicalDataBase)
 
 - 🌐 **Sección WiDS ESPOL**  
-  Desarrollo frontend con React y Tailwind para una sección del sitio [WiDS ESPOL](https://wids.espol.edu.ec/).
-
-
+  Desarrollo frontend con React y Tailwind para una sección del sitio.
+  **Tecnologías:** JavaScript, React, Tailwind CSS
+  [WiDS ESPOL](https://wids.espol.edu.ec/).  
 ---
 
 ## 🎯 Intereses
@@ -71,7 +75,7 @@ Participación en investigaciones académicas en temas relacionados con intelige
 A lo largo de mi formación y proyectos, he aprendido y aplicado diversas tecnologías, herramientas y frameworks:
 
 - ☕ **Java**  
-  Lenguaje principal en el desarrollo de aplicaciones móviles con Android Studio y aplicaciones de escritorio. Usado en proyectos como el **Gestor de Clínica** y apps de tareas.
+  Lenguaje principal en el desarrollo de aplicaciones móviles con Android Studio y aplicaciones de escritorio. 
 
 - 🌐 **JavaScript**  
   Lenguaje base para desarrollo web, utilizado en conjunto con frameworks como React para crear interfaces dinámicas e interactivas.
