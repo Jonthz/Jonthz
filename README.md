@@ -23,15 +23,15 @@ Este es mi sitio personal, donde comparto información sobre mí, mis proyectos,
 
 ## 🚀 Proyectos
 
-- 📄 **Extractor de papers de PubMed**  
-  Herramienta desarrollada para automatizar la recolección de artículos científicos desde la base de datos PubMed, utilizada en investigaciones sobre inteligencia artificial en salud.  
-  **Tecnologías:** Python, bibliotecas de web scraping y procesamiento de texto  
-  🔗 [Repositorio](https://github.com/tuusuario/extractor-pubmed)
+- ♟️ **Juego de Ajedrez**  
+  Juego de ajedrez con interfaz gráfica hecho en Java usando JavaFX. Implementa lógica completa de movimientos, control de turnos y diseño visual interactivo.  
+  **Tecnologías:** Java, JavaFX  
+  🔗 [Repositorio](https://github.com/Jonthz/Proyecto-2Parcial)
 
 - 🎓 **Gestor de Clínica**  
   Aplicación de escritorio desarrollada para gestionar pacientes, médicos y citas, usando Java y SQLite.
   **Tecnologías:** Python, SQLite
-  🔗 [Repositorio](https://github.com/tuusuario/clasificador-papers](https://github.com/Jonthz/clinicalDataBase)
+  🔗 [Repositorio](https://github.com/Jonthz/clinicalDataBase)
 
 - 🌐 **Sección WiDS ESPOL**  
   Desarrollo frontend con React y Tailwind para una sección del sitio.
