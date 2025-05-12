@@ -54,5 +54,4 @@ Manejo de **MySQL** y **SQLite** en proyectos académicos. Realicé una **demo p
 
 ---
 
-¿Quieres que este diseño también lo convierta en una página web con HTML/CSS o en un `README.md` con badges y enlaces a tus redes como GitHub o LinkedIn?
 
