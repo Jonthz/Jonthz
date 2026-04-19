@@ -48,7 +48,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🪐 [**CosmoView**](https://github.com/Jonthz/CosmoView) | Exoplanet classification model. **🥈 2nd Place at NASA Space Apps GUAYAQUIL '25**. / Modelo de clasificación de exoplanetas. | `Python` `Deep Learning` |
+| 🪐 [**CosmoView**](https://github.com/Jonthz/CelestiaWeb) | Exoplanet classification model. **🥈 2nd Place at NASA Space Apps GUAYAQUIL '25**. / Modelo de clasificación de exoplanetas. | `Python` `Deep Learning` |
 | 🌐 [**WiDS ESPOL**](https://wids.espol.edu.ec/) | Official website frontend. Real-world project with responsive design. / Frontend del sitio oficial. Proyecto real. | `React` `Tailwind` |
 | 🌿 **ManglarWatch** | Coastal ecosystem monitoring concept pitched at **SpaceHACK '26 (ASU)**. Used Sentinel & CHIRPS data analysis. / Concepto de monitoreo costero. | `Data Analysis` `Product Pitch` |
 | ♟️ [**Chess Engine**](https://github.com/Jonthz/Proyecto-2Parcial) | Chess game with GUI, full move logic and turn control. / Juego de ajedrez con interfaz gráfica y lógica completa. | `Java` `JavaFX` |
